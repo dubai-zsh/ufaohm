@@ -1,3 +1,3 @@
 # UFA-OHM
-Hello Welcom to my repos OHM
+Hello Welcom to my repo OHM
 ###
