@@ -1,0 +1,18 @@
+{
+  "name": "scroll-through-time",
+  "main": "./lib/scroll-through-time",
+  "version": "0.3.1",
+  "description": "Ufa Global",
+  "keywords": [
+    "scroll",
+    "time",
+    "space",
+    "xkcd"
+  ],
+  "repository": "https://github.com/dubai-zsh/UFA-OHM",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
